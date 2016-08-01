@@ -166,27 +166,27 @@ return array (
       0 => 
       array (
         'url' => 'http://www.genshuixue.com/sc/-3-502_1134.html?source=live',
-        'text' => 'http://www.genshuixue.com/sc/-3-107.html?source=live',
+        'text' => '职业指导',
       ),
       1 => 
       array (
         'url' => 'http://www.genshuixue.com/sc/-3-502_542.html?source=live',
-        'text' => 'http://www.genshuixue.com/sc/-3-783.html?source=live',
+        'text' => '创业求职',
       ),
       2 => 
       array (
         'url' => 'http://www.genshuixue.com/sc/-3-897_915.html?source=live',
-        'text' => 'http://www.genshuixue.com/sc/-3-975.html?source=live',
+        'text' => '沟通技巧',
       ),
       3 => 
       array (
         'url' => 'http://www.genshuixue.com/sc/-3-817.html?source=live',
-        'text' => 'http://www.genshuixue.com/sc/-3-714.html?source=live',
+        'text' => '公务员',
       ),
       4 => 
       array (
         'url' => 'http://www.genshuixue.com/sc/-3-387_410.html?source=live',
-        'text' => 'http://www.genshuixue.com/sc/-3-502.html?source=live',
+        'text' => '考研',
       ),
     ),
   ),

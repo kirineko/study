@@ -90,6 +90,10 @@ class GetHtmlTask extends Task {
             unset($href[0]);
         }
 
+        //解除引用
+        unset($title);
+        unset($href);
+
         //重新组织title项
         $title = array_combine($text, $url);
         foreach ($title as $text => $url) {
